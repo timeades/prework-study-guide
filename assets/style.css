@@ -3,10 +3,16 @@
     padding: 0;
 }
 
-header,
+header{
+    width: 100%;
+    height: 150px;
+    background-color: blue;
+    color: white;
+}
+
 footer {
     width: 100%;
-    height: 120px;
+    height: 40px;
     background-color: blue;
     color: white;
 }
@@ -18,8 +24,8 @@ h2 {
 
 img {
     display: block;
-    height: 50px;
-    width: 50px;
+    height: 75px;
+    width: 75px;
     margin-left: auto;
     margin-right: auto;
 }
